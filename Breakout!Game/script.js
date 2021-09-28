@@ -159,7 +159,7 @@ function draw(){
     drawPaddle();
     drawBall();
     drawScore();
-    drawBricks();
+    drawBricks();/////dhdhdhdhd
 }
 function keyDown(e){
     if(e.key==='Right'||e.key==='ArrowRight'){
